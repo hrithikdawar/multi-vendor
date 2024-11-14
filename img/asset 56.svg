@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="25" height="25"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="25" height="25" fill="#fff"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="25" height="25" rx="1" fill="#3a7af3"/>
+    <path id="Icon_metro-star-full" data-name="Icon metro-star-full" d="M20.038,9.028,14,8.151,11.3,2.683l-2.7,5.468-6.035.877,4.367,4.257L5.907,19.3l5.4-2.838L16.7,19.3l-1.031-6.01,4.367-4.257Z" transform="translate(1.429 1.317)" fill="#fff"/>
+  </g>
+</svg>
